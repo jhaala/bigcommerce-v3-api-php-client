@@ -3,7 +3,7 @@
     "description": "API client for BigCommerce",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "^7.0",
+        "guzzlehttp/guzzle": "^6.3",
         "ext-json": "*",
         "php": ">=7.4"
     },
